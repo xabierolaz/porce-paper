@@ -1,0 +1,266 @@
+\begin{thebibliography}{999}
+
+\bibitem[Imran and Li(2025)]{imran2025environmental}
+Imran.; Li, J.
+\newblock Environmental and economic impact of UAV technology in agriculture.
+  In {\em UAV Aerodynamics and Crop Interaction: Revolutionizing Modern
+  Agriculture with Drone}; Springer,  2025; pp. 389--429.
+\newblock {\url{https://doi.org/10.1007/978-981-96-8402-1_12}}.
+
+\bibitem[Marut et~al.(2024)Marut, Wojciechowski, Wojtowicz, Djabin, Kochan, and
+  Kurenda]{marut2024surveillance}
+Marut, A.; Wojciechowski, P.; Wojtowicz, K.; Djabin, J.; Kochan, J.; Kurenda,
+  M.
+\newblock Surveillance and protection of critical infrastructure with Unmanned
+  Aerial Vehicles.
+\newblock In Proceedings of the 2024 IEEE International Workshop on
+  Technologies for Defense and Security (TechDefense). IEEE,  2024, pp.
+  312--317.
+\newblock {\url{https://doi.org/10.1109/TechDefense63521.2024.10863159}}.
+
+\bibitem[Debnath et~al.(2024)Debnath, Vanegas, Sandino, Hawary, and
+  Gonzalez]{debnath2024review}
+Debnath, D.; Vanegas, F.; Sandino, J.; Hawary, A.F.; Gonzalez, F.
+\newblock A review of UAV path-planning algorithms and obstacle avoidance
+  methods for remote sensing applications.
+\newblock {\em Remote Sensing} {\bf 2024}, {\em 16},~4019.
+\newblock {\url{https://doi.org/10.3390/rs16214019}}.
+
+\bibitem[Meng et~al.(2025)Meng, Zhang, Zhou, Guo, and Hu]{meng2025advances}
+Meng, W.; Zhang, X.; Zhou, L.; Guo, H.; Hu, X.
+\newblock Advances in UAV Path Planning: A Comprehensive Review of Methods,
+  Challenges, and Future Directions.
+\newblock {\em Drones (2504-446X)} {\bf 2025}, {\em 9}.
+\newblock {\url{https://doi.org/10.3390/drones9050376}}.
+
+\bibitem[{European Union Aviation Safety Agency
+  (EASA)}(2023)]{EASA_AI_Roadmap_2.0}
+{European Union Aviation Safety Agency (EASA)}.
+\newblock EASA Artificial Intelligence Roadmap 2.0: A Human-Centric Approach to
+  AI in Aviation.
+\newblock EASA General Publications,  2023.
+
+\bibitem[{European Union}(2019{\natexlab{a}})]{EU2019_947}
+{European Union}.
+\newblock Commission Implementing Regulation (EU) 2019/947 of 24 May 2019 on
+  the rules and procedures for the operation of unmanned aircraft.
+\newblock Official Journal of the European Union,  2019.
+\newblock Consolidated version as of 1 May 2025.
+
+\bibitem[{European Union}(2019{\natexlab{b}})]{EU2019_945}
+{European Union}.
+\newblock Commission Delegated Regulation (EU) 2019/945 of 12 March 2019 on
+  unmanned aircraft systems and on third-country operators of unmanned aircraft
+  systems.
+\newblock Official Journal of the European Union,  2019.
+
+\bibitem[{JARUS (Joint Authorities for Rulemaking on Unmanned
+  Systems)}(2024)]{JARUS_SORA_2_5_2024}
+{JARUS (Joint Authorities for Rulemaking on Unmanned Systems)}.
+\newblock {Specific Operations Risk Assessment (SORA), Version 2.5 -- Main
+  Body}.
+\newblock Guidelines Version 2.5, {JARUS},  2024.
+
+\bibitem[{EASA (European Union Aviation Safety
+  Agency)}(2025)]{EASA_AMC_GM_SORA25_2025}
+{EASA (European Union Aviation Safety Agency)}.
+\newblock {Acceptable Means of Compliance (AMC) and Guidance Material (GM) to
+  Regulation (EU) 2019/947 – Issue 1, Amendment 3 (incorporating SORA 2.5)}.
+\newblock Technical Report Annex to ED Decision 2025/018/R, {European Union
+  Aviation Safety Agency},  2025.
+\newblock Associated agency decision: ED Decision 2025/018/R.
+
+\bibitem[Primatesta et~al.(2019)Primatesta, Guglieri, and
+  Rizzo]{primatesta2019riskaware}
+Primatesta, S.; Guglieri, G.; Rizzo, A.
+\newblock A Risk-Aware Path Planning Strategy for UAVs in Urban Environments.
+\newblock {\em Journal of Intelligent \& Robotic Systems} {\bf 2019}, {\em
+  95},~629--643.
+\newblock {\url{https://doi.org/10.1007/s10846-018-0924-3}}.
+
+\bibitem[Primatesta et~al.(2020)Primatesta, Rizzo, and
+  la~Cour-Harbo]{primatesta2020groundrisk}
+Primatesta, S.; Rizzo, A.; la~Cour-Harbo, A.
+\newblock Ground Risk Map for Unmanned Aircraft in Urban Environments.
+\newblock {\em Journal of Intelligent \& Robotic Systems} {\bf 2020}, {\em
+  97},~489--509.
+\newblock {\url{https://doi.org/10.1007/s10846-019-01015-z}}.
+
+\bibitem[Pang et~al.(2022)Pang, Hu, Dai, and Low]{pang2022integrated}
+Pang, B.; Hu, X.; Dai, W.; Low, K.H.
+\newblock UAV Path Optimization with an Integrated Cost Assessment Model
+  Considering Third-Party Risks in Metropolitan Environments.
+\newblock {\em Reliability Engineering \& System Safety} {\bf 2022}, {\em
+  222},~108399.
+\newblock {\url{https://doi.org/10.1016/j.ress.2022.108399}}.
+
+\bibitem[Tang et~al.(2023)Tang, Zhu, Qin, Song, and Li]{tang2023thirdparty}
+Tang, H.; Zhu, Q.; Qin, B.; Song, R.; Li, Z.
+\newblock UAV Path Planning Based on Third-Party Risk Modeling.
+\newblock {\em Scientific Reports} {\bf 2023}, {\em 13},~22259.
+\newblock {\url{https://doi.org/10.1038/s41598-023-49396-4}}.
+
+\bibitem[Zhang et~al.(2023)Zhang, Liu, Gao, Ren, Zhou, and
+  Yang]{zhang2023groundrisk}
+Zhang, X.; Liu, Y.; Gao, Z.; Ren, J.; Zhou, S.; Yang, B.
+\newblock A Ground-Risk-Map-Based Path-Planning Algorithm for UAVs in an Urban
+  Environment with Beetle Swarm Optimization.
+\newblock {\em Applied Sciences} {\bf 2023}, {\em 13},~11305.
+\newblock {\url{https://doi.org/10.3390/app132011305}}.
+
+\bibitem[Heinze and Uijt~de Haag(2023)]{heinze2023sora}
+Heinze, J.; Uijt~de Haag, M.
+\newblock Risk-Based UAV Flight Path Optimization in Accordance with SORA.
+\newblock {\em Engineering Proceedings} {\bf 2023}, {\em 54},~56.
+\newblock {\url{https://doi.org/10.3390/ENC2023-15473}}.
+
+\bibitem[Bra{\ss}el et~al.(2025)Bra{\ss}el, Zeh, Lindner, and
+  Fricke]{brassel2025riskaware}
+Bra{\ss}el, H.; Zeh, T.; Lindner, M.; Fricke, H.
+\newblock Risk-Aware UAV Trajectory Optimization Using Open Urban GIS Data and
+  Target Level of Safety Constraints.
+\newblock {\em Drones} {\bf 2025}, {\em 9},~666.
+\newblock {\url{https://doi.org/10.3390/drones9100666}}.
+
+\bibitem[Arafat et~al.(2023)Arafat, Alam, and Moh]{arafat2023vision}
+Arafat, M.Y.; Alam, M.M.; Moh, S.
+\newblock Vision-based navigation techniques for unmanned aerial vehicles:
+  Review and challenges.
+\newblock {\em Drones} {\bf 2023}, {\em 7},~89.
+\newblock {\url{https://doi.org/10.3390/drones7020089}}.
+
+\bibitem[Huang(2025)]{huang2025investigation}
+Huang, T.
+\newblock Investigation into Vision-Based Navigation Systems for Unmanned
+  Aerial Vehicles.
+\newblock In Proceedings of the 2025 2nd International Conference on Mechanics,
+  Electronics Engineering and Automation (ICMEEA 2025). Atlantis Press,  2025,
+  pp. 181--190.
+\newblock {\url{https://doi.org/10.2991/978-94-6463-821-9_21}}.
+
+\bibitem[LaValle(2006)]{lavalle2006planning}
+LaValle, S.M.
+\newblock {\em Planning algorithms}; Cambridge university press,  2006.
+
+\bibitem[Merei et~al.(2025)Merei, Mcheick, Ghaddar, and
+  Rebaine]{merei2025survey}
+Merei, A.; Mcheick, H.; Ghaddar, A.; Rebaine, D.
+\newblock A Survey on Obstacle Detection and Avoidance Methods for UAVs.
+\newblock {\em Drones} {\bf 2025}, {\em 9},~203.
+\newblock {\url{https://doi.org/10.3390/drones9030203}}.
+
+\bibitem[Nafees et~al.(2026)Nafees, Syeda, Ali, Farman, and
+  Tayyab]{nafees2026review}
+Nafees, M.; Syeda, T.; Ali, A.; Farman, H.; Tayyab, M.
+\newblock An In-Depth Analysis of UAV Path Planning, Including Procedures,
+  Algorithms, Optimization Models, and Emerging Challenges.
+\newblock {\em MethodsX} {\bf 2026}, {\em 16},~103826.
+\newblock {\url{https://doi.org/10.1016/j.mex.2026.103826}}.
+
+\bibitem[Zhang et~al.(2017)Zhang, Yuan, Li, and Chen]{zhang2017powerline}
+Zhang, Y.; Yuan, X.; Li, W.; Chen, S.
+\newblock Automatic Power Line Inspection Using UAV Images.
+\newblock {\em Remote Sensing} {\bf 2017}, {\em 9},~824.
+\newblock {\url{https://doi.org/10.3390/rs9080824}}.
+
+\bibitem[Zhang et~al.(2019)Zhang, Yang, Yu, Zhang, and
+  Xia]{zhang2019powerlines}
+Zhang, H.; Yang, W.; Yu, H.; Zhang, H.; Xia, G.S.
+\newblock Detecting Power Lines in UAV Images with Convolutional Features and
+  Structured Constraints.
+\newblock {\em Remote Sensing} {\bf 2019}, {\em 11},~1342.
+\newblock {\url{https://doi.org/10.3390/rs11111342}}.
+
+\bibitem[Guan et~al.(2021)Guan, Sun, Su, Hu, Wang, Wang, Peng, and
+  Guo]{guan2021uavlidar}
+Guan, H.; Sun, X.; Su, Y.; Hu, T.; Wang, H.; Wang, H.; Peng, C.; Guo, Q.
+\newblock UAV-lidar aids automatic intelligent powerline inspection.
+\newblock {\em International Journal of Electrical Power \& Energy Systems}
+  {\bf 2021}, {\em 130},~106987.
+\newblock {\url{https://doi.org/10.1016/j.ijepes.2021.106987}}.
+
+\bibitem[Zhou et~al.(2022)Zhou, Xu, Dai, Feng, Ma, and Li]{zhou2022dualview}
+Zhou, Y.; Xu, C.; Dai, Y.; Feng, X.; Ma, Y.; Li, Q.
+\newblock Dual-View Stereovision-Guided Automatic Inspection System for
+  Overhead Transmission Line Corridor.
+\newblock {\em Remote Sensing} {\bf 2022}, {\em 14},~4095.
+\newblock {\url{https://doi.org/10.3390/rs14164095}}.
+
+\bibitem[Mendu and Mbuli(2025)]{mendu2025state}
+Mendu, B.; Mbuli, N.
+\newblock State-of-the-Art Review on the Application of Unmanned Aerial
+  Vehicles (UAVs) in Power Line Inspections: Current Innovations, Trends, and
+  Future Prospects.
+\newblock {\em Drones} {\bf 2025}, {\em 9},~265.
+\newblock {\url{https://doi.org/10.3390/drones9040265}}.
+
+\bibitem[Bellou et~al.(2024)Bellou, Pisica, and Banitsas]{bellou2024aerial}
+Bellou, E.; Pisica, I.; Banitsas, K.
+\newblock Aerial Inspection of High-Voltage Power Lines Using YOLOv8 Real-Time
+  Object Detector.
+\newblock {\em Energies} {\bf 2024}, {\em 17},~2535.
+\newblock {\url{https://doi.org/10.3390/en17112535}}.
+
+\bibitem[Faisal et~al.(2025)Faisal, Mecheter, Qiblawey, Hernandez~Fernandez,
+  Chowdhury, and Kiranyaz]{faisal2025deep}
+Faisal, M.A.A.; Mecheter, I.; Qiblawey, Y.; Hernandez~Fernandez, J.; Chowdhury,
+  M.E.H.; Kiranyaz, S.
+\newblock Deep learning in automated power line inspection: A review.
+\newblock {\em Applied Energy} {\bf 2025}, {\em 385},~125507.
+\newblock {\url{https://doi.org/10.1016/j.apenergy.2025.125507}}.
+
+\bibitem[Huang et~al.(2025)Huang, Jiang, Shen, Liu, Huang, and
+  Zhang]{huang2025hybrid}
+Huang, Z.; Jiang, C.; Shen, C.; Liu, B.; Huang, T.; Zhang, M.
+\newblock A Hybrid Dynamic Path-Planning Method for Obstacle Avoidance in
+  Unmanned Aerial Vehicle-Based Power Inspection.
+\newblock {\em World Electric Vehicle Journal} {\bf 2025}, {\em 16},~22.
+\newblock {\url{https://doi.org/10.3390/wevj16010022}}.
+
+\bibitem[Dong et~al.(2017)Dong, Ding, Huang, Zhu, and Ding]{dong2017efficient}
+Dong, W.; Ding, Y.; Huang, J.; Zhu, X.; Ding, H.
+\newblock An efficient approach of time-optimal trajectory generation for the
+  fully autonomous navigation of the quadrotor.
+\newblock {\em Journal of Dynamic Systems, Measurement, and Control} {\bf
+  2017}, {\em 139},~061012.
+
+\bibitem[Pilko et~al.(2023)Pilko, S{\'o}bester, Scanlan, and
+  Ferraro]{pilko2023spatiotemporal}
+Pilko, A.; S{\'o}bester, A.; Scanlan, J.P.; Ferraro, M.
+\newblock Spatiotemporal Ground Risk Mapping for Uncrewed Aircraft Systems
+  Operations.
+\newblock {\em Journal of Aerospace Information Systems} {\bf 2023}, {\em
+  20},~126--139.
+\newblock {\url{https://doi.org/10.2514/1.I011113}}.
+
+\bibitem[Du et~al.(2024)Du, Zhong, Wang, Pang, Zhang, and
+  Jiao]{du2024safetyrisk}
+Du, S.; Zhong, G.; Wang, F.; Pang, B.; Zhang, H.; Jiao, Q.
+\newblock Safety Risk Modelling and Assessment of Civil Unmanned Aircraft
+  System Operations: A Comprehensive Review.
+\newblock {\em Drones} {\bf 2024}, {\em 8},~354.
+\newblock {\url{https://doi.org/10.3390/drones8080354}}.
+
+\bibitem[Hart et~al.(1968)Hart, Nilsson, and Raphael]{hart1968formal}
+Hart, P.E.; Nilsson, N.J.; Raphael, B.
+\newblock A Formal Basis for the Heuristic Determination of Minimum Cost Paths.
+\newblock {\em IEEE Transactions on Systems Science and Cybernetics} {\bf
+  1968}, {\em 4},~100--107.
+\newblock {\url{https://doi.org/10.1109/TSSC.1968.300136}}.
+
+\bibitem[{Ultralytics}(2026)]{ultralytics_yolo}
+{Ultralytics}.
+\newblock Ultralytics YOLO Documentation.
+\newblock \url{https://docs.ultralytics.com/},  2026.
+\newblock Accessed 2026-04-13.
+
+\bibitem[Al{\'a}ez et~al.(2023)Al{\'a}ez, Mygdalis, Villadangos, and
+  Pitas]{alaez2023real}
+Al{\'a}ez, D.; Mygdalis, V.; Villadangos, J.; Pitas, I.
+\newblock Real-time object geopositioning from monocular target
+  detection/tracking for aerial cinematography.
+\newblock In Proceedings of the 2023 IEEE 25th International Workshop on
+  Multimedia Signal Processing (MMSP). IEEE,  2023, pp. 1--6.
+\newblock {\url{https://doi.org/10.1109/MMSP59012.2023.10337638}}.
+
+\end{thebibliography}

@@ -1,0 +1,31 @@
+# Reglas de exclusión del repo final
+# local_data/ = datos pesados/privados LOCALES (dentro del repo, fuera de Git)
+local_data/
+external_store/
+runs/
+evidence/PORCE_F1_F2_F3/*.BIN
+__pycache__/
+*.pyc
+.pytest_cache/
+*.aux
+*.log
+*.blg
+*.out
+*.bbl
+*.synctex.gz
+*.pdf
+analysis/regen_output/
+analysis/sim_campaign_recomputed.csv
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# El baseline de submission es inmutable: sus .bbl/.pdf sí se versionan
+!paper/submitted/**
+!paper/submitted/**/*.bbl
+!paper/submitted/**/*.pdf
+
+evidence/field/**/*.BIN
+# BIN canónico de la campaña: forma parte del paquete
+!evidence/field/*/native/flight_*.BIN
+evidence/field/**/*.tlog

@@ -1,0 +1,13 @@
+logical_id,size_bytes,sha256,drop_to,como_obtener
+RW_trajectory_far_detection_g.JPG,5504865,3773273EC34D3FD13F2530F210EE926799F91A571FE8EFE4E0747EDFCD8E6678,paper/electronics_v4/Main/images/,local_data/paper_assets/overleaf_images/ (o script tools/restore_external_assets.ps1)
+RW_trajectory_starting_evasion_g.JPG,6592017,73E238C00EC7DF0FFBAF511961B5ED186B8F18566BCE0D02815ACE0FE7995C9D,paper/electronics_v4/Main/images/,local_data/paper_assets/overleaf_images/
+RW_trajectory_middle_evasion_g.JPG,6795901,BCB4132AFBE563CA06D7BFA69115960D4484D20F208CA057472D66EAACDFC607,paper/electronics_v4/Main/images/,local_data/paper_assets/overleaf_images/
+RW_trajectory_exit_evasion_g.JPG,6795258,AF5A33C1AE731B908E6F1B65E4F0393DC60ECB005A35A4DBFFD195741A13E739,paper/electronics_v4/Main/images/,local_data/paper_assets/overleaf_images/
+RW_trajectory_middle_rejoin_g.JPG,6673866,F41E64874F249DBEF4345FF672A9367E459C7005C4CF57DDF17D547A2B8187BB,paper/electronics_v4/Main/images/,local_data/paper_assets/overleaf_images/
+RW_trajectory_rejoin_g.JPG,6491619,3B23684C4D5A7CCDE130721DC3466A05A4C6EA9F445AE205AB2DB0F84CD41EA2,paper/electronics_v4/Main/images/,local_data/paper_assets/overleaf_images/
+Video_S1.mp4,14325550,4AB5CC58303AF0A11D82177C52315020C1010C83961372F8051CEA2F9405AFCC,paper/supplementary/,local_data/paper_assets/supplementary/
+yolo_unreal_unrealScene_v1_best_e23_2026-02-18.pt,5472538,60D04BAE0F8323FD27127CBE97D80759E0C26F842707ADAED1A9C714A6D1963F,src/weights/,local_data/yolo/weights/ (script tools/restore_external_assets.ps1)
+sitl_dataflash_77.BIN,1611000000,(77 hashes en external_data/heavy_files_hashes.csv),local_data/evidence/sitl_dataflash/,ya consolidado en local_data (fuera de Git)
+M_20_1RR_real_flight.bin+video,435999947,050E28.../905FE5...,(NO incluido: Pipeline B),queda en el checkout original papers/pipeline_b_telemetry (paper hermano)
+PORCE_estatico_MDPI_submission_20260802.zip,20594779,17795CC467579D4138F6C1EC3B3561F535127CFC9ED94760B1502F69BE2350BD,local_data/evidence/submission_zips/,copia local del ZIP de submission (papers/porce_collision_evasion/submissions/)
+PORCE_estatico_MDPI_submission_20260803.zip,20599404,AC479ED0DC5CC8ED1DB47F36C1503476523DD8313EA883CD2FF9FC0BCFF1F003,local_data/evidence/submission_zips/,copia local del ZIP de submission (papers/porce_collision_evasion/submissions/)

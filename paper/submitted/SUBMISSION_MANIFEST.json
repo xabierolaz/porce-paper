@@ -1,0 +1,251 @@
+{
+  "journal": "MDPI Drones (documentclass drones; later migrated to Electronics)",
+  "note": "Two submission-candidate archives recovered from the local working copy. Confirm with the MDPI portal which one was actually uploaded; both are preserved bit-exact.",
+  "submission_candidates": [
+    {
+      "tag": "20260802",
+      "source_zip": "papers/porce_collision_evasion/submissions/PORCE_estatico_MDPI_submission_20260802.zip",
+      "local_zip": "local_data/evidence/submission_zips/PORCE_estatico_MDPI_submission_20260802.zip",
+      "zip_size_bytes": 20594779,
+      "zip_sha256": "17795CC467579D4138F6C1EC3B3561F535127CFC9ED94760B1502F69BE2350BD",
+      "entries": [
+        {
+          "path": "Definitions/journalnames.tex",
+          "size_bytes": 119613,
+          "sha256": "627bbfd3edab2d1606c8742aa79927627ee90b74d04450f6fe552e53881ca1ae",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/logo-mdpi-eps-converted-to.pdf",
+          "size_bytes": 13253,
+          "sha256": "e564d49910ff8fbb5118e39493c96eef2d0004ca5e86428c17ed0a8d252f2a2d",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/logo-mdpi.eps",
+          "size_bytes": 563678,
+          "sha256": "f02d31469c6b2666c9de2da8d8731773bce3751d2fa99a27ff4bcf61a106cdcf",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/logo-orcid.pdf",
+          "size_bytes": 12671,
+          "sha256": "0558a0097dc4d1ffe3f4a1b3c9b4b98c6e568eac7d7439d447ca56ed1a8ec759",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/logo-updates.eps",
+          "size_bytes": 287998,
+          "sha256": "71ad8b00bcca718b62f3286af02ea56678e8199b5843d7ed4fdc86bd969c2809",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/mdpi.bst",
+          "size_bytes": 23683,
+          "sha256": "3b747eee144173c46a43562ead905c26322c7cb394e350a925d36dcf63884680",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/mdpi.cls",
+          "size_bytes": 62606,
+          "sha256": "934058105b2a8d87cfa5a8e4d888f01e73fd48cfc80d8c2ac4c45985a2b71d5c",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/mdpi_apacite.bst",
+          "size_bytes": 138426,
+          "sha256": "c7fffe0231922e5521dc360889fafe941ee26d154c1ce4e167e4ec9f2d13498f",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/mdpi_apacite.sty",
+          "size_bytes": 71315,
+          "sha256": "9e9bb23ded45f7f76236ad304d4bda2c066fb48041b272cebc20f940c17865a7",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/mdpi_chicago.bst",
+          "size_bytes": 37920,
+          "sha256": "4a73faf6e0cf1a225d1b9a41a6955d3cc29a55c5fdce662177d00eee3946ce36",
+          "extracted": false
+        },
+        {
+          "path": "Main/Main_formato_MDPI_Porce.pdf",
+          "size_bytes": 3078959,
+          "sha256": "683ba4bc01fc88c568fc6907e0d79b77cbdd0ac989a29444ea36385aac43c653",
+          "extracted": false
+        },
+        {
+          "path": "Main/Main_formato_MDPI_Porce.tex",
+          "size_bytes": 68313,
+          "sha256": "ca8259a349d00131b38c4433b61b211208c8a3cf7714100ed9b2b6a46b4738c6",
+          "extracted": true,
+          "extracted_sha256": "ca8259a349d00131b38c4433b61b211208c8a3cf7714100ed9b2b6a46b4738c6"
+        },
+        {
+          "path": "Main/referencias_revision_porce.bib",
+          "size_bytes": 17289,
+          "sha256": "ecfaab4bfc879a02d316fa610c8630066669eb1a0d296a40defab843bd8222a4",
+          "extracted": true,
+          "extracted_sha256": "ecfaab4bfc879a02d316fa610c8630066669eb1a0d296a40defab843bd8222a4"
+        },
+        {
+          "path": "Main/imagenes/fig_static_evasion_sequence.png",
+          "size_bytes": 2610867,
+          "sha256": "fe91b04c1be6033e2cd8c02b90ed5176d51537e61586c5eeac6c2be49f03bdaf",
+          "extracted": false
+        },
+        {
+          "path": "Main/imagenes/Pipeline_A.png",
+          "size_bytes": 24181,
+          "sha256": "bdd11175e74f685ed5d50391eba09f22f6d83612378f1fe5fb465c45782a4d10",
+          "extracted": false
+        },
+        {
+          "path": "Main/imagenes/System_Workflow.png",
+          "size_bytes": 62502,
+          "sha256": "81e71a2b72026f0f34855c2bab5abe32481325b26fb684446e58398fc7366d2f",
+          "extracted": false
+        },
+        {
+          "path": "Main/imagenes/transcurso_mision_nuevo_obs.png",
+          "size_bytes": 219784,
+          "sha256": "8c7fc4d716b79e04a458a9dbc7800b6f643f494fcbdab6518c5c517d80e6b723",
+          "extracted": false
+        },
+        {
+          "path": "Main/supplementary/vision_yolo_cow_evasion_v2_FINAL.mp4",
+          "size_bytes": 14325550,
+          "sha256": "4ab5cc58303af0a11d82177c52315020c1010c83961372f8051cea2f9405afcc",
+          "extracted": false
+        }
+      ]
+    },
+    {
+      "tag": "20260803",
+      "source_zip": "papers/porce_collision_evasion/submissions/PORCE_estatico_MDPI_submission_20260803.zip",
+      "local_zip": "local_data/evidence/submission_zips/PORCE_estatico_MDPI_submission_20260803.zip",
+      "zip_size_bytes": 20599404,
+      "zip_sha256": "AC479ED0DC5CC8ED1DB47F36C1503476523DD8313EA883CD2FF9FC0BCFF1F003",
+      "entries": [
+        {
+          "path": "Definitions/journalnames.tex",
+          "size_bytes": 119613,
+          "sha256": "627bbfd3edab2d1606c8742aa79927627ee90b74d04450f6fe552e53881ca1ae",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/logo-mdpi-eps-converted-to.pdf",
+          "size_bytes": 13253,
+          "sha256": "e564d49910ff8fbb5118e39493c96eef2d0004ca5e86428c17ed0a8d252f2a2d",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/logo-mdpi.eps",
+          "size_bytes": 563678,
+          "sha256": "f02d31469c6b2666c9de2da8d8731773bce3751d2fa99a27ff4bcf61a106cdcf",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/logo-orcid.pdf",
+          "size_bytes": 12671,
+          "sha256": "0558a0097dc4d1ffe3f4a1b3c9b4b98c6e568eac7d7439d447ca56ed1a8ec759",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/logo-updates.eps",
+          "size_bytes": 287998,
+          "sha256": "71ad8b00bcca718b62f3286af02ea56678e8199b5843d7ed4fdc86bd969c2809",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/mdpi.bst",
+          "size_bytes": 23683,
+          "sha256": "3b747eee144173c46a43562ead905c26322c7cb394e350a925d36dcf63884680",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/mdpi.cls",
+          "size_bytes": 62606,
+          "sha256": "934058105b2a8d87cfa5a8e4d888f01e73fd48cfc80d8c2ac4c45985a2b71d5c",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/mdpi_apacite.bst",
+          "size_bytes": 138426,
+          "sha256": "c7fffe0231922e5521dc360889fafe941ee26d154c1ce4e167e4ec9f2d13498f",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/mdpi_apacite.sty",
+          "size_bytes": 71315,
+          "sha256": "9e9bb23ded45f7f76236ad304d4bda2c066fb48041b272cebc20f940c17865a7",
+          "extracted": false
+        },
+        {
+          "path": "Definitions/mdpi_chicago.bst",
+          "size_bytes": 37920,
+          "sha256": "4a73faf6e0cf1a225d1b9a41a6955d3cc29a55c5fdce662177d00eee3946ce36",
+          "extracted": false
+        },
+        {
+          "path": "Main/Main_formato_MDPI_Porce.tex",
+          "size_bytes": 68230,
+          "sha256": "1f62bec0b50242d97265a089a2419854cf20d55b4397ab456bd21c1b2c967c9c",
+          "extracted": true,
+          "extracted_sha256": "1f62bec0b50242d97265a089a2419854cf20d55b4397ab456bd21c1b2c967c9c"
+        },
+        {
+          "path": "Main/Main_formato_MDPI_Porce.pdf",
+          "size_bytes": 3078969,
+          "sha256": "5e65c56baeefa8674e2a7f27e138f00b05e1b160625555dfa919337b22efe889",
+          "extracted": false
+        },
+        {
+          "path": "Main/Main_formato_MDPI_Porce.bbl",
+          "size_bytes": 12629,
+          "sha256": "08e6510b6873545785e878d82bff284bfb7eb949bbd4883f42cd1539b9aab281",
+          "extracted": true,
+          "extracted_sha256": "08e6510b6873545785e878d82bff284bfb7eb949bbd4883f42cd1539b9aab281"
+        },
+        {
+          "path": "Main/referencias_revision_porce.bib",
+          "size_bytes": 17289,
+          "sha256": "ecfaab4bfc879a02d316fa610c8630066669eb1a0d296a40defab843bd8222a4",
+          "extracted": true,
+          "extracted_sha256": "ecfaab4bfc879a02d316fa610c8630066669eb1a0d296a40defab843bd8222a4"
+        },
+        {
+          "path": "Main/imagenes/Pipeline_A.png",
+          "size_bytes": 24181,
+          "sha256": "bdd11175e74f685ed5d50391eba09f22f6d83612378f1fe5fb465c45782a4d10",
+          "extracted": false
+        },
+        {
+          "path": "Main/imagenes/System_Workflow.png",
+          "size_bytes": 62502,
+          "sha256": "81e71a2b72026f0f34855c2bab5abe32481325b26fb684446e58398fc7366d2f",
+          "extracted": false
+        },
+        {
+          "path": "Main/imagenes/fig_static_evasion_sequence.png",
+          "size_bytes": 2610867,
+          "sha256": "fe91b04c1be6033e2cd8c02b90ed5176d51537e61586c5eeac6c2be49f03bdaf",
+          "extracted": false
+        },
+        {
+          "path": "Main/imagenes/transcurso_mision_nuevo_obs.png",
+          "size_bytes": 219784,
+          "sha256": "8c7fc4d716b79e04a458a9dbc7800b6f643f494fcbdab6518c5c517d80e6b723",
+          "extracted": false
+        },
+        {
+          "path": "Main/supplementary/vision_yolo_cow_evasion_v2_FINAL.mp4",
+          "size_bytes": 14325550,
+          "sha256": "4ab5cc58303af0a11d82177c52315020c1010c83961372f8051cea2f9405afcc",
+          "extracted": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Prefer reproducible install from requirements.lock.txt.
+# This file is kept as an unpinned baseline list.
+requests
+flask
+pymavlink
+ultralytics
+opencv-python
+mss
+trimesh
+pyrender
+numpy
+matplotlib
+pytest

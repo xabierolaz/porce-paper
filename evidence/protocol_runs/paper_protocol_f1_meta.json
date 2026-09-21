@@ -1,0 +1,53 @@
+{
+  "run_dir": "D:\\Deep-AeroTwin-UE57-Test\\porce-paper\\runs\\paper_wp1_wp2_tower\\paper_protocol_f1_20260920_175140",
+  "port": 18120,
+  "obstacles": [
+    {
+      "lat": 42.229425078065944,
+      "lon": -1.2338362864661794,
+      "east_m": 102.81281717656613,
+      "north_m": -30.013949656705734,
+      "progress": 0.5,
+      "lateral_m": 70.0,
+      "segment_length_m": 162.12726544017545,
+      "type": "tower",
+      "source_id": 101
+    },
+    {
+      "lat": 42.22697800968813,
+      "lon": -1.2316961917835227,
+      "east_m": 102.82460032950583,
+      "north_m": -29.910357995952047,
+      "progress": 0.5,
+      "lateral_m": 70.0,
+      "segment_length_m": 162.08057191864327,
+      "type": "person",
+      "source_id": 102
+    },
+    {
+      "lat": 42.224530096758905,
+      "lon": -1.2295553581463552,
+      "east_m": 102.81488742593075,
+      "north_m": -30.011871095241894,
+      "progress": 0.5,
+      "lateral_m": 70.0,
+      "segment_length_m": 162.13097770684328,
+      "type": "tower",
+      "source_id": 103
+    }
+  ],
+  "ok": true,
+  "error": null,
+  "posts": 505,
+  "validation": {
+    "ok": true,
+    "accepted_types": [
+      "bike",
+      "tower"
+    ],
+    "clean_detections": 201,
+    "plans": 0,
+    "completions": 0,
+    "failures": 0
+  }
+}

@@ -1,0 +1,8 @@
+# Artefactos inmutables: conservar los bytes exactos (los tests comparan SHA-256)
+paper/submitted/** -text
+paper/revision/main.tex -text
+paper/revision/Main/references_main.bib -text
+
+# Expedientes de campo: bytes exactos fijados por metadata/hashes.sha256
+evidence/field/** -text
+evidence/field/**/*.png binary

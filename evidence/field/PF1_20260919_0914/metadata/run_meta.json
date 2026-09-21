@@ -1,0 +1,31 @@
+{
+ "run_id": "PF1_20260919_0914",
+ "flight_id": "PF1",
+ "attempt_id": "001",
+ "execution_domain": "PHYSICAL_FLIGHT",
+ "scenario": "1",
+ "status": "SUCCESS",
+ "utc_boot": "2026-09-19T09:14:28.6",
+ "utc_arm": "2026-09-19T09:15:00.000Z",
+ "utc_disarm": "2026-09-19T09:19:46.840Z",
+ "utc_log_close": "2026-09-19T09:20:44.840Z",
+ "vehicle": "Hexa-X CubeOrangePlus",
+ "firmware": "ArduCopter V4.5.5 (142aece2)",
+ "build_git": "142aece2",
+ "board_serial": "003C0033 30325106 33383839",
+ "mass_kg": "NOT_AVAILABLE",
+ "battery": "6S 22000 mAh LiPo",
+ "frame": "HEXA/X",
+ "porce_commit": "142aece2",
+ "perception_model": "yolo8n (weights sha256 6f3a...) en cam0",
+ "camera": "cam0 30 fps (vídeo, frames y overlay no conservados en el paquete)",
+ "sync_method": "NTP entre ordenador de vuelo y avión; offset pre/post 0,6 s (log tlog no incluido en el paquete)",
+ "sync_offset_s": 0.6,
+ "roles": {
+  "pilot": "X.O.",
+  "observer": "A.O."
+ },
+ "person_participant": true,
+ "weather": "viento < 1.5 m/s, despejado (registro de campo)",
+ "hash_bin": "e22419debcb74e49330a9bf92eeee195d2ab76469f312a29865b22ab3735a9ee"
+}

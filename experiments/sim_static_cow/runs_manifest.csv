@@ -1,0 +1,21 @@
+run_id,carpeta_cero_trust,papel_en_el_paper,mision,altitud_AGL,resultado
+20260730_231905_cow,porce_runtime/pipeline/logs/zero_trust/20260730_231905_cow,baseline sin obstaculo publicado (fila 5 Tab. v3_sim_metrics),canonica bak_20260721 (523 MSL),23,completo
+20260730_232617_cow,porce_runtime/pipeline/logs/zero_trust/20260730_232617_cow,evasion run parcial (fila 1: 153.6 s / 915.3 m / min 20.6),canonica,23,parcial (termino antes del WP final)
+20260731_055701_cow,porce_runtime/pipeline/logs/zero_trust/20260731_055701_cow,baseline sin obstaculo (195.2 s / 1357.0 m),canonica,23,parcial (para tras ultimo WP, sin return)
+20260731_060411_cow,porce_runtime/pipeline/logs/zero_trust/20260731_060411_cow,evasion run parcial (205.8 s / 1318.1 m / min 32.0),canonica,23,parcial
+20260731_060926_cow,porce_runtime/pipeline/logs/zero_trust/20260731_060926_cow,baseline sin obstaculo (464.2 s / 1459.6 m),canonica,23,completo
+20260731_061815_cow,porce_runtime/pipeline/logs/zero_trust/20260731_061815_cow,RUN AUDITADO del paper (576.5 s / 1465.4 m / 28.2 s evasion / min 29.6 / 23 replans / trigger 60.1 m),canonica,23,completo
+20260731_062851_cow,porce_runtime/pipeline/logs/zero_trust/20260731_062851_cow,evasion run completo (1469.3 m / min 29.1; duracion n.r. = recorder sin parar),canonica,23,completo
+20260731_123610_cow_evasion,porce_runtime/pipeline/logs/zero_trust/20260731_123610_cow_evasion,EXCLUIDO del paper (GPS-glitch: path recomputado 4696 km),variante cow_evasion,45,gps glitch
+20260731_124254_cow_evasion,porce_runtime/pipeline/logs/zero_trust/20260731_124254_cow_evasion,campana tarde 45 m: sin evasion publicada (excluida),variante,45,-
+20260731_124652_cow_evasion,porce_runtime/pipeline/logs/zero_trust/20260731_124652_cow_evasion,idem (97.6 s / 550.8 m),variante,45,-
+20260731_124956_cow_evasion,porce_runtime/pipeline/logs/zero_trust/20260731_124956_cow_evasion,USADO como 4o baseline sin obstaculo (625.9 s / 1459.7 m),variante,45,completo
+20260731_130142_cow_evasion,porce_runtime/pipeline/logs/zero_trust/20260731_130142_cow_evasion,campana tarde (excluida),variante,45,-
+20260731_130512_cow_evasion,porce_runtime/pipeline/logs/zero_trust/20260731_130512_cow_evasion,campana tarde (excluida),variante,45,-
+20260731_131245_cow_evasion,porce_runtime/pipeline/logs/zero_trust/20260731_131245_cow_evasion,campana tarde (excluida),variante,45,-
+20260731_131759_cow_evasion,porce_runtime/pipeline/logs/zero_trust/20260731_131759_cow_evasion,campana tarde (excluida),variante,45,-
+20260731_133026_cow_evasion,porce_runtime/pipeline/logs/zero_trust/20260731_133026_cow_evasion,campana tarde (excluida),variante,45,-
+20260731_134530_cow_evasion,porce_runtime/pipeline/logs/zero_trust/20260731_134530_cow_evasion,campana tarde (excluida),variante,45,-
+20260731_135325_cow_evasion,porce_runtime/pipeline/logs/zero_trust/20260731_135325_cow_evasion,campana tarde (excluida),variante,45,-
+20260731_141208_cow_evasion,porce_runtime/pipeline/logs/zero_trust/20260731_141208_cow_evasion,campana tarde (excluida),variante,45,-
+20260731_142110_cow_evasion,porce_runtime/pipeline/logs/zero_trust/20260731_142110_cow_evasion,campana tarde (excluida),variante,45,-

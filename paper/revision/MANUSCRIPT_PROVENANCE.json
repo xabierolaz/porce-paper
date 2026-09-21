@@ -1,0 +1,16 @@
+{
+  "canonical_manuscript": "paper/revision/main.tex",
+  "source_path": "Overleaf project 6aa92339ca32e18a56ad4776 (file Main/correccion.tex, remote main @ e282696)",
+  "source_sha256": "5C8FAD0A8527F9417993697A452181F4D0F7AF68D0D3FF04852358732262EB99",
+  "refreshed_from_overleaf_on": "2026-09-21",
+  "working_journal_class": "electronics",
+  "track_changes": "V4 MAJOR-REVISION WORKING VERSION (deleted/added markup + red reviewnote comments)",
+  "notes": [
+    "The canonical file mirrors the live Overleaf document verbatim; no editorial changes are applied here.",
+    "Same Overleaf commit: Main/references_main.bib and Definitions/* are refreshed together with main.tex.",
+    "A paper-editing pass (corrections already verified against the code, reviewnote cleanup, bibliography fixes) is scheduled as a separate commit.",
+    "2026-09-20: verified against code (planner_obstacle_subset(..., force_include=nearest_eval)) that the obstacle triggering a replan is force-included beyond the 55 m gate; manuscript text and config table clarified and the pending reviewnote resolved. Pending push to Overleaf.",
+    "The real-flight sections/figures remain frozen: the PF1/PF2/PF3 physical-flight dossier is consolidated and audited (see evidence/field/README.md), but the operator-supplied perception video/overlay (gate G6) is still pending.",
+    "paper/electronics_v4/ and paper/submitted_mdpi_v1/ were moved out of Git (local archive); paper/revision/ is the only active manuscript and paper/submitted/ the immutable baseline."
+  ]
+}

@@ -569,7 +569,7 @@ The initial \deleted{Mission Flight Plan}\added{mission flight plan} is generate
 \begin{figure}[h!]
     \centering
     \captionsetup{justification=centering}
-    \includegraphics[width=0.95\columnwidth]{Main/images/System_Workflow.png}
+    \includegraphics[width=0.7\columnwidth]{Main/images/System_Workflow.png}
     \caption{System \deleted{Workflow}\added{workflow} of the \deleted{Proposed}\added{proposed} PORCE \deleted{Control Loop}\added{control loop}}
     \label{solution}
 \end{figure}
@@ -858,45 +858,49 @@ The dashed lines represent the nominal trajectory towards the front-edge target,
 
 \added{A slight displacement may be observed between the center of the continuous safety region and the center of the associated inflated grid area. This arises from the planner’s discretization process. Obstacle positions are mapped from continuous coordinates to discrete grid indices. The inflated region is centered on the discretized node, whereas the continuous safety radius remains centered on the original position. This leads to an offset that is typically smaller than one grid cell. The two representations serve complementary purposes: the inflated grid defines the nodes excluded from the discrete path search, while the continuous safety region defines the clearance constraint used to assess the resulting trajectory.}
 
+\begin{figure}[h!]
+\centering
+\captionsetup{justification=centering}
+\includegraphics[width=\columnwidth]{Main/images/case_A_no_replan(+10).png}
+\caption{CASE A: No replanning}
+\label{fig:imgA}
+\end{figure}
+
 \added{Case A represents the baseline scenario, where the nominal trajectory already satisfies the safety constraints despite the presence of an obstacle. No replanning is therefore required, and PORCE preserves the original mission trajectory.}
 
 \begin{figure}[h!]
 \centering
 \captionsetup{justification=centering}
-\includegraphics[width=0.8\columnwidth]{Main/images/Case_A_no_replan(-48).png}
-\caption{CASE A: No replanning}
-\label{fig:imgA}
-\end{figure}
-
-\added{Case B introduces a conflict between the nominal trajectory and an obstacle safety region. PORCE generates a local detour around the obstacle and rejoins the nominal path once the conflict is cleared, preserving the original mission structure.}
-
-\begin{figure}[h!]
-\centering
-\captionsetup{justification=centering}
-\includegraphics[width=0.8\columnwidth]{Main/images/case_B_single_replan_(-48).png}
+\includegraphics[width=\columnwidth]{Main/images/case_B_single_replan(-40).png}
 \caption{CASE B:Single replanning}
 \label{fig:imgb}
 \end{figure}
 
-\added{Case C considers a situation in which an avoidance trajectory encounters additional conflicts. The planner is therefore invoked repeatedly, producing successive local updates while maintaining the same mission objective.}
+
+\added{Case B introduces a conflict between the nominal trajectory and an obstacle safety region. PORCE generates a local detour around the obstacle and rejoins the nominal path once the conflict is cleared, preserving the original mission structure. As there is only one obstacle in conflict with the nominal path, PORCE only has to compute an initial plan, and after the conflict is solved, the UAS rejoins the nominal trajectory before reaching to the nominal front-edge point.}
 
 \begin{figure}[h!]
 \centering
 \captionsetup{justification=centering}
-\includegraphics[width=\columnwidth]{Main/images/case_C_multiple_replans_big.png}
+\includegraphics[width=\columnwidth]{Main/images/case_C_multiple_replans(-40).png}
 \caption{CASE C: Multiple replannings}
 \label{fig:imgC}
 \end{figure}
 
-\added{Case D represents a constrained configuration in which no admissible route satisfies the obstacle constraints. Rather than forcing a trajectory through the blocked region, PORCE returns a Failsafe outcome.}
+
+\added{Case C considers a situation in which an avoidance trajectory encounters additional conflicts, as the space is covered by more detected obstacles. The planner is therefore invoked repeatedly, producing successive local updates while maintaining the same mission objective. The figure shows an example in which PORCE has to work from the beginning, as there is an obstacle already in the reaction margin horizon. After executing all the replans, the UAS reacquires the nominal trajectory before reaching the nominal-front edge point.}
 
 \begin{figure}[h!]
 \centering
 \captionsetup{justification=centering}
-\includegraphics[width=0.8\columnwidth]{Main/images/case_D_failsafe_(+48).png}
+\includegraphics[width=\columnwidth]{Main/images/case_D_failsafe(-40).png}
 \caption{CASE D: Failsafe scenario}
 \label{fig:imgD}
 \end{figure}
+
+\added{Case D represents a constrained configuration in which no admissible route satisfies the obstacle constraints. Rather than forcing a trajectory through the blocked region, PORCE returns a Failsafe outcome. As it is a frozen size scenario, there is no option to search for an alternative path near the left side, so after searching for other alternative paths, PORCE triggers the Failsafe.}
+
+
 
 {\subsection{Sensitivity Analysis}}
 \added{This analysis has no objective of reproducing a specific mission. Its main purpose is to characterize the PORCE behavior when the space difficulty is modified systematically. There are mainly three parameters studied: 
